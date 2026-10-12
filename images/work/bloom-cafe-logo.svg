@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 120" role="img" aria-label="Bloom Café (sample logo for a fictional brand)">
+  <!-- Sample logo for a FICTIONAL brand, used to demo the logo cover. Replace with real client logos. -->
+  <g transform="translate(60 60)">
+    <g fill="#E07A5F">
+      <circle cx="0" cy="-18" r="14"/>
+      <circle cx="17.1" cy="-5.6" r="14"/>
+      <circle cx="10.6" cy="14.6" r="14"/>
+      <circle cx="-10.6" cy="14.6" r="14"/>
+      <circle cx="-17.1" cy="-5.6" r="14"/>
+    </g>
+    <circle r="9" fill="#7A2E1D"/>
+  </g>
+  <text x="104" y="70" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#7A2E1D" letter-spacing="-1">Bloom</text>
+  <text x="107" y="98" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#7A2E1D" letter-spacing="7">CAFÉ</text>
+</svg>
