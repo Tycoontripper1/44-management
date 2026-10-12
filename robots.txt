@@ -1,0 +1,6 @@
+# Allow all search engines to read the site.
+User-agent: *
+Allow: /
+
+# Replace 44management.com with the real domain.
+Sitemap: https://44management.com/sitemap.xml
