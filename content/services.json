@@ -1,0 +1,653 @@
+[
+  {
+    "slug": "social-media-management",
+    "service": "Social Media Management",
+    "short": "Social media management",
+    "icon": "i-social",
+    "art": "images/services/social-media-management.svg",
+    "artAlt": "Illustration: a content calendar filling up and flowing into a phone feed, with likes and comments rising.",
+    "h1": "Social media management in Nigeria",
+    "metaTitle": "Social Media Management in Nigeria | 44 Management",
+    "metaDesc": "Consistent, planned social media for Nigerian businesses. We plan, design, post and reply every week, and report what worked in plain English.",
+    "fixes": "inactive or inconsistent pages",
+    "intro": [
+      "Your pages are often the first place people check before they buy, book or call. If the last post is from months ago, many will assume you have closed or stopped caring.",
+      "We plan, create and post for you every week, and reply to the people who respond, so your business looks as active online as it is in real life."
+    ],
+    "signs": [
+      [
+        "Your last post was weeks ago",
+        "Customers who look you up see an empty or outdated page and move on."
+      ],
+      [
+        "You post with no plan or theme",
+        "Each post looks different and nothing builds on the last one."
+      ],
+      [
+        "Plenty of likes, very few enquiries",
+        "The content gets attention but never asks people to do anything."
+      ]
+    ],
+    "does": [
+      [
+        "A monthly content plan",
+        "Built around what you want more of: bookings, orders, enquiries or walk-ins."
+      ],
+      [
+        "Design, captions and scheduling",
+        "Every post designed in your brand style, written and scheduled for the right time."
+      ],
+      [
+        "Replies and community",
+        "We answer comments and messages on your posts so interest doesn’t go cold."
+      ],
+      [
+        "A monthly report in plain English",
+        "What we posted, what worked, what we’ll change next month."
+      ]
+    ],
+    "steps": [
+      [
+        "First",
+        "We review your pages",
+        "We look at your current pages, your competitors and where your customers actually spend time."
+      ],
+      [
+        "Then",
+        "We agree a monthly plan",
+        "Themes, how often to post, and which platforms are worth your money."
+      ],
+      [
+        "Next",
+        "We create, you approve",
+        "You see the month’s content before anything goes out and can ask for changes."
+      ],
+      [
+        "Finally",
+        "We post, reply and report",
+        "We publish, respond to your audience and send a clear monthly summary."
+      ]
+    ],
+    "faqs": [
+      [
+        "Which platforms do you manage?",
+        "Instagram, Facebook, TikTok, X and LinkedIn. We usually recommend the two or three where your customers actually are, rather than all of them."
+      ],
+      [
+        "Do I get to approve posts before they go out?",
+        "Yes. You see the month’s content in advance and can ask for changes before anything is published."
+      ],
+      [
+        "How much does social media management cost in Nigeria?",
+        "It depends on how many platforms we manage, how often we post, and whether we also create photos or video. We give a fixed monthly quote after looking at your pages, so there are no surprises."
+      ],
+      [
+        "How soon will I see a difference?",
+        "A consistent, well-designed page looks different within the first month. Followers and enquiries build over the following months, and faster when combined with paid advertising."
+      ]
+    ],
+    "related": [
+      "media-buying",
+      "graphic-design",
+      "influencer-marketing"
+    ]
+  },
+  {
+    "slug": "media-buying",
+    "service": "Media Buying / Social Media Marketing",
+    "short": "Media buying",
+    "icon": "i-megaphone",
+    "art": "images/services/media-buying.svg",
+    "artAlt": "Illustration: an advert aimed at a crowd, with only the right group of people highlighted, and results climbing.",
+    "h1": "Media buying and social media advertising in Nigeria",
+    "metaTitle": "Media Buying & Social Media Ads in Nigeria | 44 Management",
+    "metaDesc": "Paid adverts on Instagram, Facebook, TikTok and Google, aimed at the right people in Nigeria. Clear reporting on what every result cost.",
+    "fixes": "great content that nobody sees",
+    "intro": [
+      "Good content doesn’t help if the right people never see it. Boosting a post now and then rarely reaches the people most likely to buy.",
+      "We plan and run paid adverts on the platforms your customers use, aim them at the right people and places, and tell you plainly what each result cost."
+    ],
+    "signs": [
+      [
+        "You boost posts with little to show for it",
+        "Money goes out, but you can’t point to the customers it brought in."
+      ],
+      [
+        "Your ads reach the wrong people or places",
+        "Enquiries come from cities you don’t serve or people who can’t buy."
+      ],
+      [
+        "You can’t tell what your ad spend brings back",
+        "There’s no clear link between what you spend and what you earn."
+      ]
+    ],
+    "does": [
+      [
+        "Audience and location targeting",
+        "Adverts shown to the people, areas and interests that match your customers."
+      ],
+      [
+        "Ad visuals and copy",
+        "Several versions tested against each other, so the best one gets the budget."
+      ],
+      [
+        "Budget management",
+        "We move spend toward what is working and away from what isn’t."
+      ],
+      [
+        "Clear reporting",
+        "What was spent, who it reached and what each enquiry or sale cost."
+      ]
+    ],
+    "steps": [
+      [
+        "First",
+        "We agree the goal and budget",
+        "More enquiries, more orders or more awareness, and what you are comfortable spending."
+      ],
+      [
+        "Then",
+        "We build the audiences and adverts",
+        "Who should see the ads, where, and with what message."
+      ],
+      [
+        "Next",
+        "We launch and test",
+        "Small tests first, so the budget follows evidence instead of guesses."
+      ],
+      [
+        "Finally",
+        "We optimise and report",
+        "We keep improving the campaign and show you the numbers in plain language."
+      ]
+    ],
+    "faqs": [
+      [
+        "Is there a minimum advertising budget?",
+        "There is no fixed minimum. We will tell you honestly if a budget is too small to learn anything useful, and suggest where to start."
+      ],
+      [
+        "Which platforms do you advertise on?",
+        "Instagram and Facebook (Meta), TikTok, Google and YouTube, X and LinkedIn. We choose based on where your customers are, not on what is fashionable."
+      ],
+      [
+        "Can you guarantee sales?",
+        "No honest agency can. What we can do is make sure the right people see you and report exactly what happened. If the real problem is elsewhere, such as pricing or slow replies, we will tell you."
+      ],
+      [
+        "Will I be able to see what was spent?",
+        "Yes. You get a clear breakdown of ad spend and results, so you always know where the money went."
+      ]
+    ],
+    "related": [
+      "social-media-management",
+      "influencer-marketing",
+      "graphic-design"
+    ]
+  },
+  {
+    "slug": "website-development",
+    "service": "Website Development",
+    "short": "Website development",
+    "icon": "i-browser",
+    "art": "images/services/website-development.svg",
+    "artAlt": "Illustration: a website coming together in a browser, the same site on a phone, a click on the main button and a fast speed gauge.",
+    "h1": "Website design and development in Nigeria",
+    "metaTitle": "Website Design & Development in Nigeria | 44 Management",
+    "metaDesc": "Fast, mobile-first websites and web apps for Nigerian businesses, built so customers can buy, book or contact you in seconds.",
+    "fixes": "no credible home online",
+    "intro": [
+      "A website is the one place online that you fully control. Social pages come and go, but your site is where people check that you are real.",
+      "Ours are built to load fast on a phone, explain what you do in seconds and make it easy to buy, book or get in touch."
+    ],
+    "signs": [
+      [
+        "No website, or one you’d rather not share",
+        "You send people to Instagram because the site would put them off."
+      ],
+      [
+        "It’s slow, broken or hard to use on a phone",
+        "Most of your visitors are on mobile data, and they leave before it loads."
+      ],
+      [
+        "Visitors can’t work out how to buy, book or contact you",
+        "People arrive interested and leave without doing anything."
+      ]
+    ],
+    "does": [
+      [
+        "Websites and landing pages",
+        "Fast, mobile-first pages designed around one clear action."
+      ],
+      [
+        "Booking, ordering and enquiry flows",
+        "So customers can do business with you without sending a message first."
+      ],
+      [
+        "Web applications",
+        "Custom tools and platforms built by our development team."
+      ],
+      [
+        "Search basics",
+        "Set up so Google can read your site and people can find you."
+      ]
+    ],
+    "steps": [
+      [
+        "First",
+        "We plan the pages and the goal",
+        "What visitors need to know, and the one thing you want them to do."
+      ],
+      [
+        "Then",
+        "We design it",
+        "You see how it will look on a phone and a laptop before we build."
+      ],
+      [
+        "Next",
+        "We build and test",
+        "On real phones and slow connections, not just a fast office computer."
+      ],
+      [
+        "Finally",
+        "We launch and hand over",
+        "It goes live, and we show your team how to update it."
+      ]
+    ],
+    "faqs": [
+      [
+        "How long does a website take?",
+        "A simple site typically takes a few weeks once we have your content. Larger sites and web applications take longer, and we give you a timeline before starting."
+      ],
+      [
+        "Will it work well on phones?",
+        "Yes. We design for phones first, because that is where most of your visitors will be."
+      ],
+      [
+        "Can I update it myself afterwards?",
+        "Yes. We set it up so your team can change text, prices and photos, and we show you how."
+      ],
+      [
+        "Do you handle the domain and hosting?",
+        "We can set them up in your name so that you own them, or work with what you already have."
+      ]
+    ],
+    "related": [
+      "graphic-design",
+      "media-buying",
+      "online-customer-support"
+    ]
+  },
+  {
+    "slug": "graphic-design",
+    "service": "Graphic Design",
+    "short": "Graphic design",
+    "icon": "i-design",
+    "art": "images/services/graphic-design.svg",
+    "artAlt": "Illustration: scattered, mismatched designs becoming one consistent set in a single colour palette.",
+    "h1": "Graphic design for businesses in Nigeria",
+    "metaTitle": "Graphic Design for Businesses in Nigeria | 44 Management",
+    "metaDesc": "Social media graphics, campaign visuals, flyers, posters and brand kits for Nigerian businesses that want to look like one recognisable brand.",
+    "fixes": "a brand that looks forgettable",
+    "intro": [
+      "People judge a business in seconds by how it looks. If every post and flyer looks different, customers never learn to recognise you.",
+      "We design social media graphics, campaign visuals, flyers and posters that look like one brand, wherever people see you."
+    ],
+    "signs": [
+      [
+        "Every post looks different",
+        "Different fonts, colours and styles each week, so nothing is recognisable."
+      ],
+      [
+        "Your designs look homemade next to competitors",
+        "The product is good, but the visuals make it look cheaper than it is."
+      ],
+      [
+        "No brand kit or templates to work from",
+        "Every new design starts from scratch and takes too long."
+      ]
+    ],
+    "does": [
+      [
+        "Social media designs and templates",
+        "A consistent look your team can reuse week after week."
+      ],
+      [
+        "Campaign and promotional graphics",
+        "Launches, sales, events and announcements."
+      ],
+      [
+        "Flyers, posters and print files",
+        "Prepared correctly for printing, in the sizes you need."
+      ],
+      [
+        "A simple brand kit",
+        "Colours, fonts and logo rules, so everything matches from now on."
+      ]
+    ],
+    "steps": [
+      [
+        "First",
+        "We take a brief",
+        "What it is for, who it is for, and where it will be seen."
+      ],
+      [
+        "Then",
+        "We show first concepts",
+        "A direction you can react to before we finish everything."
+      ],
+      [
+        "Next",
+        "We refine",
+        "We agree the number of revision rounds up front so the project doesn’t drag."
+      ],
+      [
+        "Finally",
+        "We deliver the files",
+        "Final artwork in the formats you need for print and online."
+      ]
+    ],
+    "faqs": [
+      [
+        "Do I get the final files?",
+        "Yes. You receive final files in the formats you need for print and online, plus editable templates where agreed."
+      ],
+      [
+        "Can you work with our existing logo and colours?",
+        "Yes. We can work within your existing brand, or tidy it up into a simple brand kit if nothing is written down."
+      ],
+      [
+        "How many revisions are included?",
+        "We agree the number of revision rounds before starting, so you know what is included."
+      ],
+      [
+        "Can you design for print as well as social media?",
+        "Yes. Flyers, posters, banners and billboard artwork are prepared print-ready, in the correct sizes and colour settings."
+      ]
+    ],
+    "related": [
+      "social-media-management",
+      "outdoor-marketing",
+      "website-development"
+    ]
+  },
+  {
+    "slug": "online-customer-support",
+    "service": "Online Customer Service / Support",
+    "short": "Customer support",
+    "icon": "i-support",
+    "art": "images/services/online-customer-support.svg",
+    "artAlt": "Illustration: messages from three channels flowing into a headset and leaving as answered replies, with a quick reply time.",
+    "h1": "Online customer service and support in Nigeria",
+    "metaTitle": "Online Customer Service & Support in Nigeria | 44 Management",
+    "metaDesc": "We answer your customers on WhatsApp, Instagram, Facebook and email, in your tone, so enquiries get a reply while people are still interested.",
+    "fixes": "unanswered messages and lost sales",
+    "intro": [
+      "Every unanswered message is a customer who went somewhere else. Most people will not wait hours for a price or a reply.",
+      "We answer enquiries on WhatsApp, Instagram, Facebook and email on your behalf, in your tone, so customers get answers while they are still interested."
+    ],
+    "signs": [
+      [
+        "Messages sit unanswered for hours",
+        "By the time you reply, the customer has already bought elsewhere."
+      ],
+      [
+        "Enquiries get lost across WhatsApp, Instagram and email",
+        "Nobody is sure who replied to what."
+      ],
+      [
+        "You answer the same questions again and again",
+        "Prices, opening hours and delivery take up your whole day."
+      ]
+    ],
+    "does": [
+      [
+        "Replies across your channels",
+        "WhatsApp, Instagram and Facebook messages, comments and email."
+      ],
+      [
+        "Saved replies and FAQs",
+        "Quick, consistent answers to the questions you get every day."
+      ],
+      [
+        "Orders, bookings and complaints",
+        "Handled to rules we agree with you, and passed to you when needed."
+      ],
+      [
+        "A weekly summary",
+        "What customers are asking, and what is costing you sales."
+      ]
+    ],
+    "steps": [
+      [
+        "First",
+        "We learn your business",
+        "Prices, policies, delivery and the way you like to speak to customers."
+      ],
+      [
+        "Then",
+        "We set up replies and rules",
+        "What we can answer ourselves, and what must come to you."
+      ],
+      [
+        "Next",
+        "We go live",
+        "Customers start getting quick, consistent replies."
+      ],
+      [
+        "Finally",
+        "We report and improve",
+        "A weekly summary, and updated answers as new questions come up."
+      ]
+    ],
+    "faqs": [
+      [
+        "What hours do you cover?",
+        "We agree cover hours with you, for example business hours, or the evenings and weekends when most of your messages arrive."
+      ],
+      [
+        "Will replies sound like us?",
+        "Yes. Replies come from your accounts in the tone we agree with you. Anything unusual is passed to you."
+      ],
+      [
+        "Do you deal with complaints?",
+        "Yes, following rules we agree in advance. Serious issues are escalated to you straight away."
+      ],
+      [
+        "Which channels do you handle?",
+        "WhatsApp, Instagram and Facebook messages and comments, and email."
+      ]
+    ],
+    "related": [
+      "social-media-management",
+      "website-development",
+      "media-buying"
+    ]
+  },
+  {
+    "slug": "influencer-marketing",
+    "service": "Influencer Marketing",
+    "short": "Influencer marketing",
+    "icon": "i-creator",
+    "art": "images/services/influencer-marketing.svg",
+    "artAlt": "Illustration: a phone on a ring-light tripod filming a product, with likes, shares and views spreading outward.",
+    "h1": "Influencer marketing in Nigeria",
+    "metaTitle": "Influencer Marketing Agency in Nigeria | 44 Management",
+    "metaDesc": "We match Nigerian brands with the right creators, agree clear deliverables and manage the campaign from brief to results.",
+    "fixes": "no trusted voices talking about you",
+    "intro": [
+      "People trust people more than adverts. A recommendation from a creator they already follow can do what months of your own posts cannot.",
+      "We find creators whose followers are your customers, agree clear deliverables and manage the campaign from brief to report, so you are not just paying for a post and hoping."
+    ],
+    "signs": [
+      [
+        "Nobody outside your circle is talking about you",
+        "Your reach stops at people who already know you."
+      ],
+      [
+        "You’ve paid influencers before with nothing to show",
+        "A post went up, got some likes and nothing else happened."
+      ],
+      [
+        "You’re not sure which creators fit your brand",
+        "Follower counts are easy to see. Whether their audience buys is not."
+      ]
+    ],
+    "does": [
+      [
+        "Creator matching",
+        "Creators chosen for audience fit and real engagement, not follower count alone."
+      ],
+      [
+        "Briefs, negotiation and agreements",
+        "Clear deliverables, dates and fees agreed before anything is posted."
+      ],
+      [
+        "Content and schedule management",
+        "We keep creators on brief and on time."
+      ],
+      [
+        "Results per creator",
+        "Reach, engagement and clicks, so you know who is worth working with again."
+      ]
+    ],
+    "steps": [
+      [
+        "First",
+        "We set the goal and audience",
+        "What you want from the campaign and who needs to hear about you."
+      ],
+      [
+        "Then",
+        "We shortlist creators",
+        "You approve the list before we contact anyone."
+      ],
+      [
+        "Next",
+        "We brief and manage content",
+        "Creators know exactly what to make, and you see it before it goes live."
+      ],
+      [
+        "Finally",
+        "We report results",
+        "What each creator delivered and what we would do next time."
+      ]
+    ],
+    "faqs": [
+      [
+        "Should we use big influencers or smaller creators?",
+        "Often a few smaller creators with the right audience do better than one big name. We recommend based on your goal and budget."
+      ],
+      [
+        "How do you choose creators?",
+        "By how well their audience matches your customers, the quality of their engagement and their past brand work. Follower count alone tells you very little."
+      ],
+      [
+        "How are creator fees handled?",
+        "Creator fees are part of the campaign budget and are agreed before anything is posted, so there are no surprises."
+      ],
+      [
+        "Can you measure what the campaign did?",
+        "Yes. We report reach, engagement and clicks per creator, and use tracked links or discount codes where possible."
+      ]
+    ],
+    "related": [
+      "media-buying",
+      "social-media-management",
+      "graphic-design"
+    ]
+  },
+  {
+    "slug": "outdoor-marketing",
+    "service": "Outdoor Marketing",
+    "short": "Outdoor marketing",
+    "icon": "i-billboard",
+    "art": "images/services/outdoor-marketing.svg",
+    "artAlt": "Illustration: a street with a billboard beside the road, a city skyline, a bus-stop poster and a street lamp.",
+    "h1": "Outdoor advertising in Nigeria: billboards, posters and flyers",
+    "metaTitle": "Outdoor & Billboard Advertising in Nigeria | 44 Management",
+    "metaDesc": "Billboards, posters and flyers planned around where your customers live, work and commute in Nigeria, with artwork that matches your online presence.",
+    "fixes": "invisible in your own neighbourhood",
+    "intro": [
+      "Not all your customers are scrolling. Billboards, posters and flyers put your name where people live, work and commute.",
+      "We plan the locations, design the artwork and handle production and placement, so your street presence matches what people see online."
+    ],
+    "signs": [
+      [
+        "People walk past without noticing you",
+        "Locals don’t know what you sell, or that you are there at all."
+      ],
+      [
+        "You’re opening a new location or launching locally",
+        "You need a whole area to hear about you quickly."
+      ],
+      [
+        "Your customers are offline as much as online",
+        "Social media alone will never reach all of them."
+      ]
+    ],
+    "does": [
+      [
+        "Billboard and poster planning",
+        "The right formats and sites for your budget and audience."
+      ],
+      [
+        "Artwork design",
+        "Readable from a distance, and consistent with your brand."
+      ],
+      [
+        "Flyer printing and distribution",
+        "Designed, printed and handed out where your customers are."
+      ],
+      [
+        "Locations chosen by footfall",
+        "Sites picked for who passes them, not just what is available."
+      ]
+    ],
+    "steps": [
+      [
+        "First",
+        "We find where your customers are",
+        "The roads, markets, campuses or estates that matter for your business."
+      ],
+      [
+        "Then",
+        "We choose locations and formats",
+        "Billboards, posters, flyers or a mix, with options at different budgets."
+      ],
+      [
+        "Next",
+        "We design and produce",
+        "Artwork made for the format, then printed."
+      ],
+      [
+        "Finally",
+        "We place it and confirm",
+        "You get photos of your adverts in place."
+      ]
+    ],
+    "faqs": [
+      [
+        "Which parts of Nigeria do you cover?",
+        "We plan outdoor campaigns across Nigeria, working with site owners and printers in each city."
+      ],
+      [
+        "How much does a billboard cost?",
+        "It depends on the location, the size and how long it runs. We give you options at different budgets before you commit."
+      ],
+      [
+        "Is outdoor advertising only for big companies?",
+        "No. Posters and flyers can work on small budgets, especially for businesses that serve a specific area."
+      ],
+      [
+        "Can outdoor adverts match our online campaign?",
+        "Yes, and they should. We design both together so people recognise you on the street and on their phones."
+      ]
+    ],
+    "related": [
+      "graphic-design",
+      "social-media-management",
+      "media-buying"
+    ]
+  }
+]
