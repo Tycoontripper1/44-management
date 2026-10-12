@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-# Replace 44management.com with the real domain.
-Sitemap: https://44management.com/sitemap.xml
+# When you buy a domain, replace the address below (and in index.html), then run: node build.js
+Sitemap: https://tycoontripper1.github.io/44-management/sitemap.xml

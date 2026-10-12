@@ -64,7 +64,9 @@ To edit the self-check questions or which service each one recommends, change th
 
 ## Hosting
 
-Upload the whole folder to any static host, such as Netlify (drag and drop), Vercel, GitHub Pages or cPanel hosting. No server is needed.
+The site is set up for **GitHub Pages**: pushing to the `main` branch updates the live site at https://tycoontripper1.github.io/44-management/ within a minute or two (Settings > Pages > Deploy from a branch > `main` / root).
+
+It also works on any other static host, such as Netlify (drag and drop), Vercel or cPanel hosting. No server is needed.
 
 ## After editing files
 
@@ -78,8 +80,10 @@ The panel at the bottom of the hero (Diagnose → Plan → Results) is plain HTM
 
 Already set up: page title and description, Nigeria-focused wording, a share-preview image (`images/og-image.png`), app icons, Google business data (in the `<script type="application/ld+json">` block in `index.html`), `sitemap.xml` and `robots.txt`.
 
-When you buy the domain:
-1. Replace every `https://44management.com` with the real address in `index.html`, `sitemap.xml` and `robots.txt` (search-and-replace).
+The site currently uses its GitHub Pages address, `https://tycoontripper1.github.io/44-management`.
+
+When you buy a domain:
+1. Replace every `https://tycoontripper1.github.io/44-management` with the real address in `index.html` and `robots.txt` (search-and-replace), then run `node build.js` to update the service pages and `sitemap.xml`.
 2. If the email changes, update it in `config.js` and in the business data block in `index.html`.
 3. Add the site to **Google Search Console** (search.google.com/search-console), verify the domain, and submit `https://yourdomain/sitemap.xml`.
 4. Paste the site link into WhatsApp or LinkedIn to check that the preview card shows the image.
