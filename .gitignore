@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Not needed (the build script has no dependencies), but ignored in case they appear
+node_modules/
+npm-debug.log*
+
+# Local environment files
+.env
+.env.*
