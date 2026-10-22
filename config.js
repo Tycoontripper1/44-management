@@ -4,12 +4,12 @@
 window.SITE_CONFIG = {
   // WhatsApp number in international format, digits only (no +, spaces or dashes).
   // Example: Nigeria 0803 123 4567 -> "2348031234567"
-  whatsappNumber: "2340000000000",
+  whatsappNumber: "2348142459584", // 0814 245 9584
 
   // Pre-filled message when someone taps the WhatsApp button.
   whatsappMessage: "Hi 44 Management, I'd like to talk about getting my business seen.",
 
-  email: "hello@44management.com",
+  email: "hello.44management@gmail.com",
 
   // Leave a link as "" to hide it.
   socials: {
