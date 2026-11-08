@@ -38,7 +38,7 @@ function relocate(html) {
     .replace(/<div class="nav-dd" id="nav-dd"([^>]*)><\/div>/, '<div class="nav-dd" id="nav-dd"$1 data-prebuilt>' + dropdown() + "</div>")
     .replace(/href="#top"/g, 'href="' + UP + '"')
     // Section links only: icon references like href="#i-mail" must stay as they are.
-    .replace(/href="#(?!i-)([A-Za-z][\w-]*)"/g, 'href="' + UP + '#$1"')
+    .replace(/href="#(?!i-|logo-)([A-Za-z][\w-]*)"/g, 'href="' + UP + '#$1"')
     .replace(/href="(services\/[^"]+)"/g, 'href="' + UP + '$1"');
 }
 
@@ -120,9 +120,9 @@ function page(s) {
   <meta name="twitter:description" content="${esc(s.metaDesc)}">
   <meta name="twitter:image" content="${domain}/images/og-image.png">
 
-  <link rel="icon" href="${UP}favicon.svg" type="image/svg+xml">
-  <link rel="icon" href="${UP}images/icon-192.png" type="image/png" sizes="192x192">
-  <link rel="apple-touch-icon" href="${UP}images/apple-touch-icon.png">
+  <link rel="icon" href="${UP}favicon.svg?v=2" type="image/svg+xml">
+  <link rel="icon" href="${UP}images/icon-192.png?v=2" type="image/png" sizes="192x192">
+  <link rel="apple-touch-icon" href="${UP}images/apple-touch-icon.png?v=2">
   <link rel="manifest" href="${UP}site.webmanifest">
 
   <script type="application/ld+json">

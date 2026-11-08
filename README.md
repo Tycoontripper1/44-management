@@ -14,6 +14,7 @@ A static, one-page website with no framework and no build step. Open `index.html
 | `diagnose.js` | The visibility self-check: sliders, radar chart, recommendations |
 | `animations.js` | All motion effects (no need to edit) |
 | `images/work/` | Put portfolio images here |
+| `images/brand/` | The logo as SVG files: `44-logo` (mark + MANAGEMENT) and `44-mark` (just the 44), each in navy and white |
 | `content/services.json` | **Text for the seven service pages** |
 | `build.js` | Generates the service pages (run `node build.js`) |
 | `services/` | The generated service pages. Don't edit these by hand |

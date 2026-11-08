@@ -12,3 +12,7 @@ npm-debug.log*
 # Local environment files
 .env
 .env.*
+
+# Source files dropped in for reference (not published)
+/*.pdf
+/WhatsApp Image*
