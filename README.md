@@ -23,7 +23,7 @@ A static, one-page website with no framework and no build step. Open `index.html
 ## Before launch
 
 1. In `config.js`, set the real `whatsappNumber`, `email` and `socials`.
-2. In `portfolio.js`, **replace the three placeholder projects** with real ones.
+2. In `portfolio.js`, add 44 Management client projects as they come in (the current ones are team work from before 44 Management).
 3. Set up the contact form (see below).
 
 ## Updating the portfolio
