@@ -87,20 +87,20 @@
       ]
     ],
     "related": [
-      "media-buying",
+      "paid-ads-management",
       "graphic-design",
       "influencer-marketing"
     ]
   },
   {
-    "slug": "media-buying",
-    "service": "Media Buying / Social Media Marketing",
-    "short": "Media buying",
+    "slug": "paid-ads-management",
+    "service": "Paid Ads Management",
+    "short": "Paid ads",
     "icon": "i-megaphone",
-    "art": "images/services/media-buying.svg",
+    "art": "images/services/paid-ads-management.svg",
     "artAlt": "Illustration: an advert aimed at a crowd, with only the right group of people highlighted, and results climbing.",
-    "h1": "Media buying and social media advertising in Nigeria",
-    "metaTitle": "Media Buying & Social Media Ads in Nigeria | 44 Management",
+    "h1": "Paid ads management in Nigeria",
+    "metaTitle": "Paid Ads Management in Nigeria | 44 Management",
     "metaDesc": "Paid adverts on Instagram, Facebook, TikTok and Google, aimed at the right people in Nigeria. Clear reporting on what every result cost.",
     "fixes": "great content that nobody sees",
     "intro": [
@@ -274,7 +274,7 @@
     ],
     "related": [
       "graphic-design",
-      "media-buying",
+      "paid-ads-management",
       "online-customer-support"
     ]
   },
@@ -461,7 +461,7 @@
     "related": [
       "social-media-management",
       "website-development",
-      "media-buying"
+      "paid-ads-management"
     ]
   },
   {
@@ -552,7 +552,7 @@
       ]
     ],
     "related": [
-      "media-buying",
+      "paid-ads-management",
       "social-media-management",
       "graphic-design"
     ]
@@ -647,7 +647,7 @@
     "related": [
       "graphic-design",
       "social-media-management",
-      "media-buying"
+      "paid-ads-management"
     ]
   }
 ]

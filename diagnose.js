@@ -17,7 +17,7 @@
       label: "Paid reach", short: "Paid reach", icon: "i-megaphone",
       question: "Do ads put you in front of the right people?",
       options: ["We don’t run ads", "We tried, it didn’t work", "Some results", "Our ads work well"],
-      service: "Media Buying / Social Media Marketing",
+      service: "Paid Ads Management",
     },
     {
       label: "Website", short: "Website", icon: "i-browser",

@@ -234,6 +234,32 @@ for (const s of services) {
   console.log("built services/" + s.slug + "/");
 }
 
+// Old addresses of renamed service pages: each gets a tiny page that forwards to the new one,
+// so links already shared (or indexed by Google) keep working. Add a line when you rename a slug.
+const REDIRECTS = { "media-buying": "paid-ads-management" };
+for (const [from, to] of Object.entries(REDIRECTS)) {
+  const target = bySlug[to];
+  if (!target) throw new Error("Redirect target not found: " + to);
+  const dir = path.join(ROOT, "services", from);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, "index.html"), `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>${esc(target.service)} | 44 Management</title>
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="${domain}/services/${to}/">
+  <meta http-equiv="refresh" content="0; url=../${to}/">
+</head>
+<body>
+  <p>This page has moved to <a href="../${to}/">${esc(target.service)}</a>.</p>
+  <script>location.replace("../${to}/" + location.search + location.hash);</script>
+</body>
+</html>
+`);
+  console.log("redirect services/" + from + "/ -> services/" + to + "/");
+}
+
 // Sitemap: homepage + every service page.
 const today = new Date().toISOString().slice(0, 10);
 const urls = [domain + "/"].concat(services.map((s) => domain + "/services/" + s.slug + "/"));
