@@ -66,7 +66,7 @@
 */
 
 window.PORTFOLIO = [
-  // From the team portfolio PDF. All of this was done by members of our team before
+  // From the team portfolio PDFs. All of this was done by members of our team before
   // 44 Management existed, so every entry is type "team". Numbers are read straight
   // from the screenshots in that PDF; don't round them up.
   {
@@ -87,6 +87,44 @@ window.PORTFOLIO = [
       { value: "117K", label: "Instagram views in 30 days" },
       { value: "98.4%", label: "Of views from non-followers" },
       { value: "16K", label: "Instagram followers" },
+    ],
+    link: "",
+    credit: "By a team member, before 44 Management",
+  },
+  {
+    title: "Brand and campaign design",
+    type: "team",
+    client: "Bardar, Flexmonie, Goodknight, Strike Force, Hollandia and more",
+    year: "",
+    services: ["Graphic Design"],
+    description: "Campaign artwork, social posts, billboards and a logo for drinks, household, food, gaming and fintech brands.",
+    problem: "",
+    solution: "Product campaigns, seasonal and holiday posts, event artwork, billboard designs and a logo system, made for each brand's own channels.",
+    result: "",
+    image: "images/work/design-cover.jpg",
+    gallery: [
+      { image: "images/work/design-01.jpg", caption: "Bardar: outdoor display, \"Grapes, oaks and patience\"" },
+      { image: "images/work/design-02.jpg", caption: "Strike Force: \"Strike fast, strike hard\"" },
+      { image: "images/work/design-03.jpg", caption: "\"Spirit of Naija\" drinks artwork" },
+      { image: "images/work/design-04.jpg", caption: "Good Mama: \"Bubble Storm\"" },
+      { image: "images/work/design-05.jpg", caption: "Flexmonie: billboard design" },
+      { image: "images/work/design-06.jpg", caption: "Goodknight Power Shots: \"Spray inside, stay inside\"" },
+      { image: "images/work/design-07.jpg", caption: "Bournvita: \"Richer, creamier\"" },
+      { image: "images/work/design-08.jpg", caption: "Hollandia: \"The Hollandia Power Up\"" },
+      { image: "images/work/design-09.jpg", caption: "Morning Fresh: \"Wash-a-tour\"" },
+      { image: "images/work/design-10.jpg", caption: "Dragon Gaming: \"Up your game\"" },
+      { image: "images/work/design-11.jpg", caption: "Dragon Gaming: \"Up your game\", second version" },
+      { image: "images/work/design-12.jpg", caption: "Flexmonie: \"Flexmonie na the way\"" },
+      { image: "images/work/design-13.jpg", caption: "Flexmonie: \"Send and receive money without story\"" },
+      { image: "images/work/design-14.jpg", caption: "Flex Mobile: \"Live tomorrow today\"" },
+      { image: "images/work/design-15.jpg", caption: "Goodknight Electric: \"For a calm, peaceful sleep\"" },
+      { image: "images/work/design-16.jpg", caption: "Wine poster: \"Taste the passion\"" },
+      { image: "images/work/design-17.jpg", caption: "Bardar: International Women's Day post" },
+      { image: "images/work/design-18.jpg", caption: "Bardar: Independence Day post" },
+      { image: "images/work/design-19.jpg", caption: "Onga Wanbe event artwork" },
+      { image: "images/work/design-20.jpg", caption: "Onga Wanbe event invitation" },
+      { image: "images/work/design-21.jpg", caption: "Strike Force: product artwork" },
+      { image: "images/work/design-22.jpg", caption: "BDS: logo on brand colours" },
     ],
     link: "",
     credit: "By a team member, before 44 Management",
