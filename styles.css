@@ -1597,15 +1597,24 @@ html.lenis { scroll-behavior: auto; }
 /* ==========================================================
    Self-check nudge: standalone section with an illustrated background
    ========================================================== */
-.nudge { background: var(--navy); padding: 0 0 var(--section-pad); }
+/* The page behind is off-white, so a fractional section height can leave a 1px light seam
+   between the navy contact section and this one. A 1px navy shadow upwards paints over it. */
+.nudge { box-shadow: 0 -1px 0 var(--navy); }
+.nudge { position: relative; background: var(--navy); padding: 0 0 var(--section-pad); }
 .nudge-card {
   position: relative; overflow: hidden; border-radius: 28px; color: var(--offwhite);
-  background: #0b1a33; border: 1px solid var(--navy-line);
+  background: #0f2142; border: 1px solid rgba(246, 243, 236, 0.12);
   display: flex; flex-direction: column;
+  isolation: isolate; /* clips the artwork cleanly to the rounded corners */
 }
 .nudge-art {
-  height: 240px;
-  background: #13264a url("images/selfcheck-art.svg?v=2") right center / cover no-repeat;
+  position: relative; height: 240px;
+  background: #13264a url("images/selfcheck-art.svg?v=3") right center / cover no-repeat;
+}
+/* phones and tablets: fade the bottom of the artwork into the card instead of a hard edge */
+.nudge-art::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 45%;
+  background: linear-gradient(180deg, rgba(15, 33, 66, 0), #0f2142);
 }
 .nudge-text { position: relative; padding: 28px 24px 32px; display: grid; gap: 14px; justify-items: start; }
 .nudge-text .eyebrow { margin-bottom: 2px; }
@@ -1618,8 +1627,8 @@ html.lenis { scroll-behavior: auto; }
   .nudge-art { position: absolute; inset: 0; height: auto; }
   /* keep the text readable over the artwork */
   .nudge-art::after {
-    content: ""; position: absolute; inset: 0;
-    background: linear-gradient(90deg, #0b1a33 0%, #0b1a33 34%, rgba(11, 26, 51, 0) 60%);
+    content: ""; position: absolute; inset: 0; height: auto;
+    background: linear-gradient(90deg, #0f2142 0%, #0f2142 34%, rgba(15, 33, 66, 0) 60%);
   }
   .nudge-text { padding: 56px; max-width: 560px; }
 }
